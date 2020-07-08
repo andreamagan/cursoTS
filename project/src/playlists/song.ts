@@ -1,4 +1,4 @@
-import { ISong, Genre } from "../models/song.model";
+import { ISong, Genre } from "../models";
 
 export class Song implements ISong {
   title: string;

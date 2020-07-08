@@ -1,3 +1,3 @@
-import { ISong, Genre } from "./song.model";
-import { IUser } from "./user.model";
-import { IPlaylist} from "./playlist.model";
+export * from "./song.model";
+export * from "./user.model";
+export * from "./playlist.model";
